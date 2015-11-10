@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 NOV 2015 16:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 NOV 2015 17:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -175,9 +175,11 @@ Underfull \hbox (badness 2368) in paragraph at lines 51--75
 \OT1/cmr/m/n/10 sources avail-able, I dis-cov-ered sev-eral com-pet-ing
  []
 
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
+
+Underfull \hbox (badness 3492) in paragraph at lines 51--75
+\OT1/cmr/m/n/10 While Bran-den-berger does em-pha-size the Great
+ []
+
 
 Underfull \hbox (badness 1603) in paragraph at lines 76--93
 \OT1/cmr/m/n/10 Dig-i-tal Archive, spon-sored by the Rus-sian State
@@ -198,9 +200,6 @@ Underfull \vbox (badness 2744) has occurred while \output is active []
 
 
 ]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -225,9 +224,6 @@ Underfull \hbox (badness 1924) in paragraph at lines 117--142
 \OT1/cmr/m/n/10 down-falls of the Com-mu-nist Party. Ul-ti-mately,
  []
 
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
 [2]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -235,17 +231,11 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
 
 Underfull \hbox (badness 1286) in paragraph at lines 226--232
 \OT1/cmr/m/n/10 This let-ter was ob-tained from the Stalin Dig-i-tal
  []
 
-Missing character: There is no ‚ in font cmti8!
-Missing character: There is no Ä in font cmti8!
-Missing character: There is no ô in font cmti8!
 
 Underfull \hbox (badness 1484) in paragraph at lines 234--242
 \OT1/cmr/m/n/10 they present the his-tory of the VKP(b)
@@ -261,9 +251,6 @@ Underfull \hbox (badness 1168) in paragraph at lines 234--242
 \OT1/cmr/m/n/10 ex-pla-na-tion; or be-cause they suf-fer from
  []
 
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
 
 Underfull \hbox (badness 2818) in paragraph at lines 244--250
 []\OT1/cmr/m/n/10 This quote shows that Stalin wanted the
@@ -279,9 +266,6 @@ Underfull \hbox (badness 1281) in paragraph at lines 275--280
 []\OT1/cmr/m/n/10 This pas-sage re-veals how Stalin wanted to
  []
 
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
 
 Underfull \hbox (badness 1817) in paragraph at lines 303--303
 [][]\OT1/cmr/m/n/8 Brandenberger, David. \OT1/cmr/m/it/8 Stalin's An-swer the N
@@ -303,9 +287,6 @@ Underfull \hbox (badness 3568) in paragraph at lines 322--340
 \OT1/cmr/m/n/10 This pol-icy was highly con-tro-ver-sial be-cause it
  []
 
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
 
 Underfull \hbox (badness 1817) in paragraph at lines 373--373
 [][]\OT1/cmr/m/n/8 Brandenberger, David. \OT1/cmr/m/it/8 Stalin's An-swer the N
@@ -426,8 +407,9 @@ Underfull \hbox (badness 1102) in paragraph at lines 605--612
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 605--612
-\OT1/cmr/m/n/10 pub-li-ca-tion of the Short Course. This
+Underfull \hbox (badness 2088) in paragraph at lines 605--612
+\OT1/cmr/m/n/10 pub-li-ca-tion of the \OT1/cmr/m/it/10 Short Course\OT1/cmr/m/n
+/10 . This
  []
 
 
@@ -436,49 +418,46 @@ Underfull \hbox (badness 7704) in paragraph at lines 605--612
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 629--642
+Underfull \hbox (badness 1796) in paragraph at lines 628--641
 \OT1/cmr/m/n/10 tran-script to the Polit-buro and stated, ``Stalin's
  []
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
 
-Underfull \hbox (badness 3503) in paragraph at lines 678--684
+Underfull \hbox (badness 3503) in paragraph at lines 677--683
 \OT1/cmr/m/n/10 an-swered the ques-tion of the Great Ter-ror by
  []
 
 
-Underfull \hbox (badness 4193) in paragraph at lines 678--684
+Underfull \hbox (badness 4193) in paragraph at lines 677--683
 \OT1/cmr/m/n/10 in trea-son and also wanted to un-der-mine the
  []
 
 [7]
-Underfull \hbox (badness 4328) in paragraph at lines 721--726
+Underfull \hbox (badness 4328) in paragraph at lines 720--725
 []\OT1/cmr/m/n/10 ``It was the only ma-te-rial on Rus-sian
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 721--726
+Underfull \hbox (badness 2735) in paragraph at lines 720--725
 \OT1/cmr/m/n/10 one-self re-gard-ing the de-mands of Party
  []
 
 
-Underfull \hbox (badness 4001) in paragraph at lines 774--785
+Underfull \hbox (badness 4001) in paragraph at lines 773--784
 []\OT1/cmr/m/n/10 Overall, the \OT1/cmr/m/it/10 Short Course \OT1/cmr/m/n/10 of
 -fers valu-able
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 774--785
+Underfull \hbox (badness 1057) in paragraph at lines 773--784
 \OT1/cmr/m/n/10 book are the val-ues of the pro-le-tariat class, the
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 774--785
+Underfull \hbox (badness 1019) in paragraph at lines 773--784
 \OT1/cmr/m/n/10 worker's rev-o-lu-tion, Lenin-ism, and in-dus-try. By
  []
 
@@ -488,15 +467,15 @@ Underfull \hbox (badness 1019) in paragraph at lines 774--785
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 823.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 822.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 823.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 822.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 833.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 832.
  [10
 
 
@@ -529,7 +508,7 @@ ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on stalin.pdf (10 pages, 229407 bytes).
+Output written on stalin.pdf (10 pages, 229432 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
