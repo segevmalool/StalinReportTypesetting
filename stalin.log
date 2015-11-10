@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 NOV 2015 17:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 NOV 2015 18:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -185,12 +185,9 @@ Underfull \hbox (badness 1603) in paragraph at lines 76--93
 \OT1/cmr/m/n/10 Dig-i-tal Archive, spon-sored by the Rus-sian State
  []
 
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ” in font cmr10!
 
-Underfull \hbox (badness 1178) in paragraph at lines 94--113
-\OT1/cmr/m/n/10 dur-ing the Great Ter-ror, and sec-ond, to rewrite
+Underfull \hbox (badness 1496) in paragraph at lines 94--113
+\OT1/cmr/m/n/10 bible of the So-viet Union. Stalin's strat-egy to
  []
 
 
@@ -373,9 +370,6 @@ Underfull \hbox (badness 1122) in paragraph at lines 535--540
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
 
 Underfull \hbox (badness 1259) in paragraph at lines 542--558
 []\OT1/cmr/m/n/10 Stalin ra-tio-nal-ized that the pur-pose of the
@@ -425,7 +419,7 @@ Underfull \hbox (badness 1796) in paragraph at lines 628--641
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
-
+[7]
 Underfull \hbox (badness 3503) in paragraph at lines 677--683
 \OT1/cmr/m/n/10 an-swered the ques-tion of the Great Ter-ror by
  []
@@ -435,7 +429,7 @@ Underfull \hbox (badness 4193) in paragraph at lines 677--683
 \OT1/cmr/m/n/10 in trea-son and also wanted to un-der-mine the
  []
 
-[7]
+
 Underfull \hbox (badness 4328) in paragraph at lines 720--725
 []\OT1/cmr/m/n/10 ``It was the only ma-te-rial on Rus-sian
  []
@@ -508,7 +502,7 @@ ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on stalin.pdf (10 pages, 229432 bytes).
+Output written on stalin.pdf (10 pages, 229561 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
